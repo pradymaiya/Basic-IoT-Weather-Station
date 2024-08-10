@@ -1,0 +1,5 @@
+ESP8266 or Arduino with Wi-Fi module (NodeMCU or ESP-01)
+DHT11/22 Sensor (for temperature and humidity)
+BMP180 or BME280 Sensor (for pressure)
+Breadboard and Jumper Wires
+Power Supply (USB cable or battery)
