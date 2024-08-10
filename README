@@ -1,0 +1,2 @@
+Connect ESP8266 to Wi-Fi: After uploading the code to your ESP8266, open the Serial Monitor to see the IP address assigned to the ESP8266.
+Access the Web Server: Open a web browser and enter the ESP8266's IP address in the address bar. You will see the temperature, humidity, and pressure data displayed on a simple webpage.
